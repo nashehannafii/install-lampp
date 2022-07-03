@@ -7,3 +7,4 @@ Simple install Apache2, Mysql, PHP | I'm using Ubuntu
 - git clone https://github.com/nashehannafii/install-lampp.git
 - cd install-lampp
 - sudo chmod +x install-lampp
+- sudo ./install-lampp
